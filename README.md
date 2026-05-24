@@ -22,7 +22,7 @@ Siin on minu andmeanalüüsi portfoolio — projektid SQL, Python ja Power BI va
  
 ## 📫 Kontakt
  
-- **Email:** tbatba@gmail.com
+- **Email:** tba@gmail.com
 - **LinkedIn:** tba
  
 ---
