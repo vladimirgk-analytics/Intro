@@ -2,10 +2,10 @@
 # Tere! 👋 Mina olen Vladimir
  
 ## 🎯 Andmeanalüütiku Karjääri Algus
- 
-Õpin hetkel **DACA (Data Analyst Career Accelerator)** programmis ja ehitan oma esimest professionaalset portfooliot.
- 
-## 🛠️ Tehnoloogiad, mida õpin
+
+Siin on minu andmeanalüüsi portfoolio — projektid SQL, Python ja Power BI valdkonnas, mis on valminud DACA programmi raames.
+
+## 🛠️ Tehnoloogiad, mida kasutan
  
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -14,7 +14,7 @@
 - **Andmebaasid:** PostgreSQL, Supabase
 - **Programmeerimiskeeled:** Python (pandas, plotly)
 - **Visualiseerimine:** Power BI
-- **Versioonihaldus:** Git, GitHub
+- **Versioonihaldus:** GitHub
  
 ## 📂 Projektid
  
