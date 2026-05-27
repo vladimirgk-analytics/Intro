@@ -26,5 +26,3 @@ Siin on minu andmeanalüüsi portfoolio — projektid SQL, Python ja Power BI va
 - **LinkedIn:** tba
  
 ---
- 
-_"Data is the new oil, but analytics is the combustion engine." – Peter Sondergaard_
