@@ -18,7 +18,7 @@ Siin on minu andmeanalüüsi portfoolio — projektid SQL, Python ja Power BI va
  
 ## 📂 Projektid
  
-- [**DACA Portfoolio**](https://github.com/vladimir-gk/daca-portfolio) - 11-nädalane õppeprojektid
+- [**DACA Portfoolio**](https://github.com/vladimirgk-analytics/daca-portfolio) - 11-nädalane õppeprojektid
  
 ## 📫 Kontakt
  
